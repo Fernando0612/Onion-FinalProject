@@ -1,0 +1,15 @@
+C:\Users\ferna\source\repos\OnionCRUD\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+C:\Users\ferna\source\repos\OnionCRUD\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.json
+C:\Users\ferna\source\repos\OnionCRUD\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.dev.json
+C:\Users\ferna\source\repos\OnionCRUD\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\ferna\source\repos\OnionCRUD\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\ferna\source\repos\OnionCRUD\Infrastructure\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\ferna\source\repos\OnionCRUD\Infrastructure\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\ferna\source\repos\OnionCRUD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+C:\Users\ferna\source\repos\OnionCRUD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ferna\source\repos\OnionCRUD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+C:\Users\ferna\source\repos\OnionCRUD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ferna\source\repos\OnionCRUD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+C:\Users\ferna\source\repos\OnionCRUD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\ferna\source\repos\OnionCRUD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\ferna\source\repos\OnionCRUD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.genruntimeconfig.cache

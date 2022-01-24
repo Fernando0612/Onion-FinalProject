@@ -1,0 +1,17 @@
+C:\Users\ferna\source\repos\OnionCRUD\ServicesLayer\bin\Debug\netcoreapp3.1\ServicesLayer.deps.json
+C:\Users\ferna\source\repos\OnionCRUD\ServicesLayer\bin\Debug\netcoreapp3.1\ServicesLayer.runtimeconfig.json
+C:\Users\ferna\source\repos\OnionCRUD\ServicesLayer\bin\Debug\netcoreapp3.1\ServicesLayer.runtimeconfig.dev.json
+C:\Users\ferna\source\repos\OnionCRUD\ServicesLayer\bin\Debug\netcoreapp3.1\ServicesLayer.dll
+C:\Users\ferna\source\repos\OnionCRUD\ServicesLayer\bin\Debug\netcoreapp3.1\ServicesLayer.pdb
+C:\Users\ferna\source\repos\OnionCRUD\ServicesLayer\obj\Debug\netcoreapp3.1\ServicesLayer.csprojAssemblyReference.cache
+C:\Users\ferna\source\repos\OnionCRUD\ServicesLayer\obj\Debug\netcoreapp3.1\ServicesLayer.AssemblyInfoInputs.cache
+C:\Users\ferna\source\repos\OnionCRUD\ServicesLayer\obj\Debug\netcoreapp3.1\ServicesLayer.AssemblyInfo.cs
+C:\Users\ferna\source\repos\OnionCRUD\ServicesLayer\obj\Debug\netcoreapp3.1\ServicesLayer.csproj.CoreCompileInputs.cache
+C:\Users\ferna\source\repos\OnionCRUD\ServicesLayer\obj\Debug\netcoreapp3.1\ServicesLayer.dll
+C:\Users\ferna\source\repos\OnionCRUD\ServicesLayer\obj\Debug\netcoreapp3.1\ServicesLayer.pdb
+C:\Users\ferna\source\repos\OnionCRUD\ServicesLayer\obj\Debug\netcoreapp3.1\ServicesLayer.genruntimeconfig.cache
+C:\Users\ferna\source\repos\OnionCRUD\ServicesLayer\bin\Debug\netcoreapp3.1\DomainLayer.dll
+C:\Users\ferna\source\repos\OnionCRUD\ServicesLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+C:\Users\ferna\source\repos\OnionCRUD\ServicesLayer\bin\Debug\netcoreapp3.1\DomainLayer.pdb
+C:\Users\ferna\source\repos\OnionCRUD\ServicesLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+C:\Users\ferna\source\repos\OnionCRUD\ServicesLayer\obj\Debug\netcoreapp3.1\ServicesLayer.csproj.CopyComplete
